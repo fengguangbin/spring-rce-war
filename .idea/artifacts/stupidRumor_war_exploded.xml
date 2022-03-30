@@ -1,0 +1,42 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="stupidRumor:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/stupidRumor_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="stupidRumor/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="stupidRumor" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/el-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/jasper.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/jsp-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/catalina.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/ecj-4.6.3.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/jasper-el.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-jni.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/catalina-ha.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/servlet-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-dbcp.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-jdbc.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-util.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/catalina-ant.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-coyote.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/websocket-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-i18n-es.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-i18n-fr.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-i18n-ja.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/annotations-api.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/catalina-tribes.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-util-scan.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/tomcat-websocket.jar" />
+          <element id="file-copy" path="E:/Program Files/tomcat/tomcat/apache-tomcat-8.0.49/lib/catalina-storeconfig.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
